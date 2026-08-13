@@ -13,9 +13,9 @@ This repository and its published page contain:
 - no authentication or identity verification;
 - no personal-data collection;
 - no cookies, analytics, tracking, or storage;
-- no external scripts, images, fonts, APIs, or redirects.
+- no externally hosted scripts, images, fonts, APIs, or redirects.
 
-The two buttons only change text already present in the page. No information is transmitted or retained.
+The 18+ button loads one repository-local cosplay image only after it is selected. The under-18 path does not load the image. No button transmits or retains information.
 
 ## Test purpose
 
